@@ -34,7 +34,7 @@ public class landingpage {
     }
     @FindBy(xpath = "//ul//li[4]//button")
     WebElement checkout;
-    public void clickcheckoutButton(){
+    public void clickcheckoutButtons(){
         checkout.click();
     }
     @FindBy(xpath = "//ul//div//button[1]")

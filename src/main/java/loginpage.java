@@ -14,7 +14,7 @@ lp.loginApplication("abhijith2260883@gmail.com","jITHU_5288040");
 Thread.sleep(2000);
 lp.clickcartButton();
 Thread.sleep(2000);
-lp.clickcheckoutButton();
+lp.clickcheckoutButtons();
 Thread.sleep(2000);
 lp.finalcheckoutButton();
 Thread.sleep(2000);
