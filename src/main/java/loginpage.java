@@ -16,7 +16,7 @@ lp.clickcartButton();
 Thread.sleep(2000);
 lp.clickcheckoutButtons();
 Thread.sleep(2000);
-lp.finalcheckoutButton();
+lp.finalcheckoutButtons();
 Thread.sleep(2000);
 //driver.findElement(By.id("userEmail")).sendKeys("abhijith2260883@gmail.com");
 //driver.findElement(By.id("userPassword")).sendKeys("jITHU_5288040");

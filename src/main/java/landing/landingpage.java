@@ -39,7 +39,7 @@ public class landingpage {
     }
     @FindBy(xpath = "//ul//div//button[1]")
     WebElement finalcheckout;
-    public void finalcheckoutButton(){
+    public void finalcheckoutButtons(){
         finalcheckout.click();
     }
 
